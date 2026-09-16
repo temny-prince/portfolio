@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\HW1C2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3992821F-B646-44A5-BB52-B08301E9234A}|HW1C2\\HW1C2.csproj|c:\\users\\artem\\desktop\\programming\\project c#\\hw1c2\\hw1c2\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3992821F-B646-44A5-BB52-B08301E9234A}|HW1C2\\HW1C2.csproj|solutionrelative:hw1c2\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3992821F-B646-44A5-BB52-B08301E9234A}|HW1C2\\HW1C2.csproj|c:\\users\\artem\\desktop\\programming\\project c#\\hw1c2\\hw1c2\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3992821F-B646-44A5-BB52-B08301E9234A}|HW1C2\\HW1C2.csproj|solutionrelative:hw1c2\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3992821F-B646-44A5-BB52-B08301E9234A}|HW1C2\\HW1C2.csproj|c:\\users\\artem\\desktop\\programming\\project c#\\hw1c2\\hw1c2\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3992821F-B646-44A5-BB52-B08301E9234A}|HW1C2\\HW1C2.csproj|solutionrelative:hw1c2\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3992821F-B646-44A5-BB52-B08301E9234A}|HW1C2\\HW1C2.csproj|c:\\users\\artem\\desktop\\programming\\project c#\\hw1c2\\hw1c2\\controllers\\answerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3992821F-B646-44A5-BB52-B08301E9234A}|HW1C2\\HW1C2.csproj|solutionrelative:hw1c2\\controllers\\answerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 70,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\HW1C2\\HW1C2\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "HW1C2\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\HW1C2\\HW1C2\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "HW1C2\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T18:36:32.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\HW1C2\\HW1C2\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "HW1C2\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\HW1C2\\HW1C2\\Controllers\\TestController.cs",
+              "RelativeToolTip": "HW1C2\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T18:37:02.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuestionsController.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\HW1C2\\HW1C2\\Controllers\\QuestionsController.cs",
+              "RelativeDocumentMoniker": "HW1C2\\Controllers\\QuestionsController.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\HW1C2\\HW1C2\\Controllers\\QuestionsController.cs",
+              "RelativeToolTip": "HW1C2\\Controllers\\QuestionsController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T18:36:46.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnswersController.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\HW1C2\\HW1C2\\Controllers\\AnswersController.cs",
+              "RelativeDocumentMoniker": "HW1C2\\Controllers\\AnswersController.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\HW1C2\\HW1C2\\Controllers\\AnswersController.cs",
+              "RelativeToolTip": "HW1C2\\Controllers\\AnswersController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAkwDQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T18:37:37.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
