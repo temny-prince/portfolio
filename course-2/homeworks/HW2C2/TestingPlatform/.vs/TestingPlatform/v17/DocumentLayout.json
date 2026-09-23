@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\TestingPlatform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3087BD79-FD11-4D30-828E-0D0616FACF59}|TestingPlatform\\TestingPlatform.csproj|c:\\users\\artem\\desktop\\programming\\project c#\\testingplatform\\testingplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3087BD79-FD11-4D30-828E-0D0616FACF59}|TestingPlatform\\TestingPlatform.csproj|solutionrelative:testingplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3087BD79-FD11-4D30-828E-0D0616FACF59}|TestingPlatform\\TestingPlatform.csproj|c:\\users\\artem\\desktop\\programming\\project c#\\testingplatform\\testingplatform\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3087BD79-FD11-4D30-828E-0D0616FACF59}|TestingPlatform\\TestingPlatform.csproj|solutionrelative:testingplatform\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3087BD79-FD11-4D30-828E-0D0616FACF59}|TestingPlatform\\TestingPlatform.csproj|c:\\users\\artem\\desktop\\programming\\project c#\\testingplatform\\testingplatform\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3087BD79-FD11-4D30-828E-0D0616FACF59}|TestingPlatform\\TestingPlatform.csproj|solutionrelative:testingplatform\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3087BD79-FD11-4D30-828E-0D0616FACF59}|TestingPlatform\\TestingPlatform.csproj|c:\\users\\artem\\desktop\\programming\\project c#\\testingplatform\\testingplatform\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3087BD79-FD11-4D30-828E-0D0616FACF59}|TestingPlatform\\TestingPlatform.csproj|solutionrelative:testingplatform\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3087BD79-FD11-4D30-828E-0D0616FACF59}|TestingPlatform\\TestingPlatform.csproj|c:\\users\\artem\\desktop\\programming\\project c#\\testingplatform\\testingplatform\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3087BD79-FD11-4D30-828E-0D0616FACF59}|TestingPlatform\\TestingPlatform.csproj|solutionrelative:testingplatform\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3087BD79-FD11-4D30-828E-0D0616FACF59}|TestingPlatform\\TestingPlatform.csproj|c:\\users\\artem\\desktop\\programming\\project c#\\testingplatform\\testingplatform\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3087BD79-FD11-4D30-828E-0D0616FACF59}|TestingPlatform\\TestingPlatform.csproj|solutionrelative:testingplatform\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3087BD79-FD11-4D30-828E-0D0616FACF59}|TestingPlatform\\TestingPlatform.csproj|c:\\users\\artem\\desktop\\programming\\project c#\\testingplatform\\testingplatform\\models\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3087BD79-FD11-4D30-828E-0D0616FACF59}|TestingPlatform\\TestingPlatform.csproj|solutionrelative:testingplatform\\models\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3087BD79-FD11-4D30-828E-0D0616FACF59}|TestingPlatform\\TestingPlatform.csproj|c:\\users\\artem\\desktop\\programming\\project c#\\testingplatform\\testingplatform\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3087BD79-FD11-4D30-828E-0D0616FACF59}|TestingPlatform\\TestingPlatform.csproj|solutionrelative:testingplatform\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3087BD79-FD11-4D30-828E-0D0616FACF59}|TestingPlatform\\TestingPlatform.csproj|c:\\users\\artem\\desktop\\programming\\project c#\\testingplatform\\testingplatform\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3087BD79-FD11-4D30-828E-0D0616FACF59}|TestingPlatform\\TestingPlatform.csproj|solutionrelative:testingplatform\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3087BD79-FD11-4D30-828E-0D0616FACF59}|TestingPlatform\\TestingPlatform.csproj|c:\\users\\artem\\desktop\\programming\\project c#\\testingplatform\\testingplatform\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3087BD79-FD11-4D30-828E-0D0616FACF59}|TestingPlatform\\TestingPlatform.csproj|solutionrelative:testingplatform\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3087BD79-FD11-4D30-828E-0D0616FACF59}|TestingPlatform\\TestingPlatform.csproj|c:\\users\\artem\\desktop\\programming\\project c#\\testingplatform\\testingplatform\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3087BD79-FD11-4D30-828E-0D0616FACF59}|TestingPlatform\\TestingPlatform.csproj|solutionrelative:testingplatform\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3087BD79-FD11-4D30-828E-0D0616FACF59}|TestingPlatform\\TestingPlatform.csproj|c:\\users\\artem\\desktop\\programming\\project c#\\testingplatform\\testingplatform\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3087BD79-FD11-4D30-828E-0D0616FACF59}|TestingPlatform\\TestingPlatform.csproj|solutionrelative:testingplatform\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3087BD79-FD11-4D30-828E-0D0616FACF59}|TestingPlatform\\TestingPlatform.csproj|c:\\users\\artem\\desktop\\programming\\project c#\\testingplatform\\testingplatform\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3087BD79-FD11-4D30-828E-0D0616FACF59}|TestingPlatform\\TestingPlatform.csproj|solutionrelative:testingplatform\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3087BD79-FD11-4D30-828E-0D0616FACF59}|TestingPlatform\\TestingPlatform.csproj|c:\\users\\artem\\desktop\\programming\\project c#\\testingplatform\\testingplatform\\testingplatform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3087BD79-FD11-4D30-828E-0D0616FACF59}|TestingPlatform\\TestingPlatform.csproj|solutionrelative:testingplatform\\testingplatform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3087BD79-FD11-4D30-828E-0D0616FACF59}|TestingPlatform\\TestingPlatform.csproj|c:\\users\\artem\\desktop\\programming\\project c#\\testingplatform\\testingplatform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3087BD79-FD11-4D30-828E-0D0616FACF59}|TestingPlatform\\TestingPlatform.csproj|solutionrelative:testingplatform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 70,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\TestingPlatform\\TestingPlatform\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "TestingPlatform\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\TestingPlatform\\TestingPlatform\\Models\\Course.cs",
+              "RelativeToolTip": "TestingPlatform\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T17:32:00.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\TestingPlatform\\TestingPlatform\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "TestingPlatform\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\TestingPlatform\\TestingPlatform\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "TestingPlatform\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowDwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T17:47:37.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\TestingPlatform\\TestingPlatform\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TestingPlatform\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\TestingPlatform\\TestingPlatform\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TestingPlatform\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T15:51:27.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\TestingPlatform\\TestingPlatform\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "TestingPlatform\\Models\\Group.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\TestingPlatform\\TestingPlatform\\Models\\Group.cs",
+              "RelativeToolTip": "TestingPlatform\\Models\\Group.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T17:32:54.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Direction.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\TestingPlatform\\TestingPlatform\\Models\\Direction.cs",
+              "RelativeDocumentMoniker": "TestingPlatform\\Models\\Direction.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\TestingPlatform\\TestingPlatform\\Models\\Direction.cs",
+              "RelativeToolTip": "TestingPlatform\\Models\\Direction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T17:32:33.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\TestingPlatform\\TestingPlatform\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "TestingPlatform\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\TestingPlatform\\TestingPlatform\\Models\\Project.cs",
+              "RelativeToolTip": "TestingPlatform\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T17:31:40.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\TestingPlatform\\TestingPlatform\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "TestingPlatform\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\TestingPlatform\\TestingPlatform\\Models\\Student.cs",
+              "RelativeToolTip": "TestingPlatform\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T15:50:15.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\TestingPlatform\\TestingPlatform\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TestingPlatform\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\TestingPlatform\\TestingPlatform\\Models\\User.cs",
+              "RelativeToolTip": "TestingPlatform\\Models\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwA4AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T17:26:02.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\TestingPlatform\\TestingPlatform\\Models\\UserRole.cs",
+              "RelativeDocumentMoniker": "TestingPlatform\\Models\\UserRole.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\TestingPlatform\\TestingPlatform\\Models\\UserRole.cs",
+              "RelativeToolTip": "TestingPlatform\\Models\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T17:30:18.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\TestingPlatform\\TestingPlatform\\Program.cs",
+              "RelativeDocumentMoniker": "TestingPlatform\\Program.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\TestingPlatform\\TestingPlatform\\Program.cs",
+              "RelativeToolTip": "TestingPlatform\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAB4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T17:31:08.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QuestionsController.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\TestingPlatform\\TestingPlatform\\Controllers\\QuestionsController.cs",
+              "RelativeDocumentMoniker": "TestingPlatform\\Controllers\\QuestionsController.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\TestingPlatform\\TestingPlatform\\Controllers\\QuestionsController.cs",
+              "RelativeToolTip": "TestingPlatform\\Controllers\\QuestionsController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T18:26:50.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GroupController.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\TestingPlatform\\TestingPlatform\\Controllers\\GroupController.cs",
+              "RelativeDocumentMoniker": "TestingPlatform\\Controllers\\GroupController.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\TestingPlatform\\TestingPlatform\\Controllers\\GroupController.cs",
+              "RelativeToolTip": "TestingPlatform\\Controllers\\GroupController.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAswB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T17:42:45.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\TestingPlatform\\TestingPlatform\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "TestingPlatform\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\TestingPlatform\\TestingPlatform\\Controllers\\TestController.cs",
+              "RelativeToolTip": "TestingPlatform\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T18:27:13.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\TestingPlatform\\TestingPlatform\\appsettings.json",
+              "RelativeDocumentMoniker": "TestingPlatform\\appsettings.json",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\TestingPlatform\\TestingPlatform\\appsettings.json",
+              "RelativeToolTip": "TestingPlatform\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-23T15:55:31.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TestingPlatform",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\TestingPlatform\\TestingPlatform\\TestingPlatform.csproj",
+              "RelativeDocumentMoniker": "TestingPlatform\\TestingPlatform.csproj",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\Project C#\\TestingPlatform\\TestingPlatform\\TestingPlatform.csproj",
+              "RelativeToolTip": "TestingPlatform\\TestingPlatform.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-23T15:49:59.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
