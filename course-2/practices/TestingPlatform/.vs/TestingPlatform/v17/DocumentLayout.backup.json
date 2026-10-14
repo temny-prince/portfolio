@@ -3,184 +3,212 @@
   "WorkspaceRootPath": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\pw1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|solutionrelative:pw1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD33916F-D97E-40B7-B4FB-8A2438AAE018}|TestingPlatform.API\\TestingPlatform.API.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.api\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD33916F-D97E-40B7-B4FB-8A2438AAE018}|TestingPlatform.API\\TestingPlatform.API.csproj|solutionrelative:testingplatform.api\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\pw1\\pw1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|solutionrelative:pw1\\pw1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{CD33916F-D97E-40B7-B4FB-8A2438AAE018}|TestingPlatform.API\\TestingPlatform.API.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.api\\testingplatform.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CD33916F-D97E-40B7-B4FB-8A2438AAE018}|TestingPlatform.API\\TestingPlatform.API.csproj|solutionrelative:testingplatform.api\\testingplatform.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\pw1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|solutionrelative:pw1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{BCE6DB0A-4D51-4D50-B0B5-8D3E297786A1}|TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.infrastruct\\repositories\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE6DB0A-4D51-4D50-B0B5-8D3E297786A1}|TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj|solutionrelative:testingplatform.infrastruct\\repositories\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\pw1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|solutionrelative:pw1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9098EE7-95A3-405C-947F-DC79FF38B1BA}|TestingPlatform.Application\\TestingPlatform.Application.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.application\\igrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9098EE7-95A3-405C-947F-DC79FF38B1BA}|TestingPlatform.Application\\TestingPlatform.Application.csproj|solutionrelative:testingplatform.application\\igrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\pw1\\data\\configurations\\usertextanswerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|solutionrelative:pw1\\data\\configurations\\usertextanswerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD33916F-D97E-40B7-B4FB-8A2438AAE018}|TestingPlatform.API\\TestingPlatform.API.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD33916F-D97E-40B7-B4FB-8A2438AAE018}|TestingPlatform.API\\TestingPlatform.API.csproj|solutionrelative:testingplatform.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\pw1\\data\\configurations\\userselectedoptionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|solutionrelative:pw1\\data\\configurations\\userselectedoptionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9098EE7-95A3-405C-947F-DC79FF38B1BA}|TestingPlatform.Application\\TestingPlatform.Application.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.application\\testingplatform.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E9098EE7-95A3-405C-947F-DC79FF38B1BA}|TestingPlatform.Application\\TestingPlatform.Application.csproj|solutionrelative:testingplatform.application\\testingplatform.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\pw1\\data\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|solutionrelative:pw1\\data\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD33916F-D97E-40B7-B4FB-8A2438AAE018}|TestingPlatform.API\\TestingPlatform.API.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CD33916F-D97E-40B7-B4FB-8A2438AAE018}|TestingPlatform.API\\TestingPlatform.API.csproj|solutionrelative:testingplatform.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\pw1\\data\\configurations\\userattemptanswerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|solutionrelative:pw1\\data\\configurations\\userattemptanswerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCE6DB0A-4D51-4D50-B0B5-8D3E297786A1}|TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.infrastruct\\testingplatform.infrastruct.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BCE6DB0A-4D51-4D50-B0B5-8D3E297786A1}|TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj|solutionrelative:testingplatform.infrastruct\\testingplatform.infrastruct.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\pw1\\data\\configurations\\teststudentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|solutionrelative:pw1\\data\\configurations\\teststudentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCE6DB0A-4D51-4D50-B0B5-8D3E297786A1}|TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.infrastruct\\data\\configurations\\studentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE6DB0A-4D51-4D50-B0B5-8D3E297786A1}|TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj|solutionrelative:testingplatform.infrastruct\\data\\configurations\\studentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\pw1\\data\\configurations\\testresultconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|solutionrelative:pw1\\data\\configurations\\testresultconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCE6DB0A-4D51-4D50-B0B5-8D3E297786A1}|TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.infrastruct\\data\\configurations\\usertextanswerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE6DB0A-4D51-4D50-B0B5-8D3E297786A1}|TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj|solutionrelative:testingplatform.infrastruct\\data\\configurations\\usertextanswerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\pw1\\data\\configurations\\testprojectconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|solutionrelative:pw1\\data\\configurations\\testprojectconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCE6DB0A-4D51-4D50-B0B5-8D3E297786A1}|TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.infrastruct\\data\\configurations\\userattemptanswerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE6DB0A-4D51-4D50-B0B5-8D3E297786A1}|TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj|solutionrelative:testingplatform.infrastruct\\data\\configurations\\userattemptanswerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\pw1\\data\\configurations\\testgroupconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|solutionrelative:pw1\\data\\configurations\\testgroupconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCE6DB0A-4D51-4D50-B0B5-8D3E297786A1}|TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.infrastruct\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE6DB0A-4D51-4D50-B0B5-8D3E297786A1}|TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj|solutionrelative:testingplatform.infrastruct\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\pw1\\data\\configurations\\testdirectionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|solutionrelative:pw1\\data\\configurations\\testdirectionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCE6DB0A-4D51-4D50-B0B5-8D3E297786A1}|TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.infrastruct\\data\\configurations\\userselectedoptionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE6DB0A-4D51-4D50-B0B5-8D3E297786A1}|TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj|solutionrelative:testingplatform.infrastruct\\data\\configurations\\userselectedoptionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\pw1\\data\\configurations\\testcourseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|solutionrelative:pw1\\data\\configurations\\testcourseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCE6DB0A-4D51-4D50-B0B5-8D3E297786A1}|TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.infrastruct\\data\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE6DB0A-4D51-4D50-B0B5-8D3E297786A1}|TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj|solutionrelative:testingplatform.infrastruct\\data\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\pw1\\data\\configurations\\testconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|solutionrelative:pw1\\data\\configurations\\testconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCE6DB0A-4D51-4D50-B0B5-8D3E297786A1}|TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.infrastruct\\data\\configurations\\teststudentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE6DB0A-4D51-4D50-B0B5-8D3E297786A1}|TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj|solutionrelative:testingplatform.infrastruct\\data\\configurations\\teststudentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\pw1\\data\\configurations\\studentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|solutionrelative:pw1\\data\\configurations\\studentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCE6DB0A-4D51-4D50-B0B5-8D3E297786A1}|TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.infrastruct\\data\\configurations\\testresultconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE6DB0A-4D51-4D50-B0B5-8D3E297786A1}|TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj|solutionrelative:testingplatform.infrastruct\\data\\configurations\\testresultconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\pw1\\data\\configurations\\questionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|solutionrelative:pw1\\data\\configurations\\questionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCE6DB0A-4D51-4D50-B0B5-8D3E297786A1}|TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.infrastruct\\data\\configurations\\testprojectconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE6DB0A-4D51-4D50-B0B5-8D3E297786A1}|TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj|solutionrelative:testingplatform.infrastruct\\data\\configurations\\testprojectconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\pw1\\data\\configurations\\projectconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|solutionrelative:pw1\\data\\configurations\\projectconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCE6DB0A-4D51-4D50-B0B5-8D3E297786A1}|TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.infrastruct\\data\\configurations\\testgroupconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE6DB0A-4D51-4D50-B0B5-8D3E297786A1}|TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj|solutionrelative:testingplatform.infrastruct\\data\\configurations\\testgroupconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\pw1\\data\\configurations\\groupconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|solutionrelative:pw1\\data\\configurations\\groupconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCE6DB0A-4D51-4D50-B0B5-8D3E297786A1}|TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.infrastruct\\data\\configurations\\testdirectionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE6DB0A-4D51-4D50-B0B5-8D3E297786A1}|TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj|solutionrelative:testingplatform.infrastruct\\data\\configurations\\testdirectionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\pw1\\data\\configurations\\directionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|solutionrelative:pw1\\data\\configurations\\directionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCE6DB0A-4D51-4D50-B0B5-8D3E297786A1}|TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.infrastruct\\data\\configurations\\testcourseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE6DB0A-4D51-4D50-B0B5-8D3E297786A1}|TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj|solutionrelative:testingplatform.infrastruct\\data\\configurations\\testcourseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\pw1\\data\\configurations\\courseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|solutionrelative:pw1\\data\\configurations\\courseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCE6DB0A-4D51-4D50-B0B5-8D3E297786A1}|TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.infrastruct\\data\\configurations\\testconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE6DB0A-4D51-4D50-B0B5-8D3E297786A1}|TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj|solutionrelative:testingplatform.infrastruct\\data\\configurations\\testconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\pw1\\data\\configurations\\attemptconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|solutionrelative:pw1\\data\\configurations\\attemptconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCE6DB0A-4D51-4D50-B0B5-8D3E297786A1}|TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.infrastruct\\data\\configurations\\questionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE6DB0A-4D51-4D50-B0B5-8D3E297786A1}|TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj|solutionrelative:testingplatform.infrastruct\\data\\configurations\\questionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\pw1\\data\\configurations\\answerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|solutionrelative:pw1\\data\\configurations\\answerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCE6DB0A-4D51-4D50-B0B5-8D3E297786A1}|TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.infrastruct\\data\\configurations\\projectconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE6DB0A-4D51-4D50-B0B5-8D3E297786A1}|TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj|solutionrelative:testingplatform.infrastruct\\data\\configurations\\projectconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\pw1\\models\\usertextanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|solutionrelative:pw1\\models\\usertextanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCE6DB0A-4D51-4D50-B0B5-8D3E297786A1}|TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.infrastruct\\data\\configurations\\groupconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE6DB0A-4D51-4D50-B0B5-8D3E297786A1}|TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj|solutionrelative:testingplatform.infrastruct\\data\\configurations\\groupconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\pw1\\models\\userselectedoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|solutionrelative:pw1\\models\\userselectedoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCE6DB0A-4D51-4D50-B0B5-8D3E297786A1}|TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.infrastruct\\data\\configurations\\directionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE6DB0A-4D51-4D50-B0B5-8D3E297786A1}|TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj|solutionrelative:testingplatform.infrastruct\\data\\configurations\\directionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\pw1\\models\\userattemptanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|solutionrelative:pw1\\models\\userattemptanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCE6DB0A-4D51-4D50-B0B5-8D3E297786A1}|TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.infrastruct\\data\\configurations\\attemptconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE6DB0A-4D51-4D50-B0B5-8D3E297786A1}|TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj|solutionrelative:testingplatform.infrastruct\\data\\configurations\\attemptconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\pw1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|solutionrelative:pw1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCE6DB0A-4D51-4D50-B0B5-8D3E297786A1}|TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.infrastruct\\data\\configurations\\courseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE6DB0A-4D51-4D50-B0B5-8D3E297786A1}|TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj|solutionrelative:testingplatform.infrastruct\\data\\configurations\\courseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\pw1\\models\\testresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|solutionrelative:pw1\\models\\testresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCE6DB0A-4D51-4D50-B0B5-8D3E297786A1}|TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.infrastruct\\data\\configurations\\answerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCE6DB0A-4D51-4D50-B0B5-8D3E297786A1}|TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj|solutionrelative:testingplatform.infrastruct\\data\\configurations\\answerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\pw1\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|solutionrelative:pw1\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9488DB54-0289-495E-AD7C-0EFDF54F0ADA}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.domain\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9488DB54-0289-495E-AD7C-0EFDF54F0ADA}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|solutionrelative:testingplatform.domain\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\pw1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|solutionrelative:pw1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9488DB54-0289-495E-AD7C-0EFDF54F0ADA}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.domain\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9488DB54-0289-495E-AD7C-0EFDF54F0ADA}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|solutionrelative:testingplatform.domain\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\pw1\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|solutionrelative:pw1\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9488DB54-0289-495E-AD7C-0EFDF54F0ADA}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.domain\\models\\usertextanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9488DB54-0289-495E-AD7C-0EFDF54F0ADA}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|solutionrelative:testingplatform.domain\\models\\usertextanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\pw1\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|solutionrelative:pw1\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9488DB54-0289-495E-AD7C-0EFDF54F0ADA}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.domain\\models\\userselectedoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9488DB54-0289-495E-AD7C-0EFDF54F0ADA}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|solutionrelative:testingplatform.domain\\models\\userselectedoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\pw1\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|solutionrelative:pw1\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9488DB54-0289-495E-AD7C-0EFDF54F0ADA}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.domain\\models\\userattemptanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9488DB54-0289-495E-AD7C-0EFDF54F0ADA}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|solutionrelative:testingplatform.domain\\models\\userattemptanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\pw1\\models\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|solutionrelative:pw1\\models\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9488DB54-0289-495E-AD7C-0EFDF54F0ADA}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9488DB54-0289-495E-AD7C-0EFDF54F0ADA}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|solutionrelative:testingplatform.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\pw1\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|solutionrelative:pw1\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9488DB54-0289-495E-AD7C-0EFDF54F0ADA}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.domain\\models\\testresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9488DB54-0289-495E-AD7C-0EFDF54F0ADA}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|solutionrelative:testingplatform.domain\\models\\testresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\pw1\\models\\attempt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|solutionrelative:pw1\\models\\attempt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9488DB54-0289-495E-AD7C-0EFDF54F0ADA}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.domain\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9488DB54-0289-495E-AD7C-0EFDF54F0ADA}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|solutionrelative:testingplatform.domain\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\pw1\\models\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|solutionrelative:pw1\\models\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9488DB54-0289-495E-AD7C-0EFDF54F0ADA}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.domain\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9488DB54-0289-495E-AD7C-0EFDF54F0ADA}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|solutionrelative:testingplatform.domain\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\pw1\\models\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|solutionrelative:pw1\\models\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9488DB54-0289-495E-AD7C-0EFDF54F0ADA}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.domain\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9488DB54-0289-495E-AD7C-0EFDF54F0ADA}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|solutionrelative:testingplatform.domain\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\pw1\\models\\enums\\testtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|solutionrelative:pw1\\models\\enums\\testtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9488DB54-0289-495E-AD7C-0EFDF54F0ADA}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.domain\\models\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9488DB54-0289-495E-AD7C-0EFDF54F0ADA}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|solutionrelative:testingplatform.domain\\models\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\pw1\\models\\enums\\answertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|solutionrelative:pw1\\models\\enums\\answertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9488DB54-0289-495E-AD7C-0EFDF54F0ADA}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.domain\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9488DB54-0289-495E-AD7C-0EFDF54F0ADA}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|solutionrelative:testingplatform.domain\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\pw1\\models\\jointablesmodels\\teststudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|solutionrelative:pw1\\models\\jointablesmodels\\teststudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9488DB54-0289-495E-AD7C-0EFDF54F0ADA}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.domain\\models\\attempt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9488DB54-0289-495E-AD7C-0EFDF54F0ADA}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|solutionrelative:testingplatform.domain\\models\\attempt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\pw1\\models\\jointablesmodels\\testproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|solutionrelative:pw1\\models\\jointablesmodels\\testproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9488DB54-0289-495E-AD7C-0EFDF54F0ADA}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.domain\\models\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9488DB54-0289-495E-AD7C-0EFDF54F0ADA}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|solutionrelative:testingplatform.domain\\models\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\pw1\\models\\jointablesmodels\\testgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|solutionrelative:pw1\\models\\jointablesmodels\\testgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9488DB54-0289-495E-AD7C-0EFDF54F0ADA}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.domain\\models\\jointablesmodels\\teststudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9488DB54-0289-495E-AD7C-0EFDF54F0ADA}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|solutionrelative:testingplatform.domain\\models\\jointablesmodels\\teststudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\pw1\\models\\jointablesmodels\\testdirection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|solutionrelative:pw1\\models\\jointablesmodels\\testdirection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9488DB54-0289-495E-AD7C-0EFDF54F0ADA}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.domain\\models\\jointablesmodels\\testproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9488DB54-0289-495E-AD7C-0EFDF54F0ADA}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|solutionrelative:testingplatform.domain\\models\\jointablesmodels\\testproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\pw1\\models\\jointablesmodels\\testcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{551CADB3-3A4E-4E09-8347-98706E7A7EE1}|PW1\\PW1.csproj|solutionrelative:pw1\\models\\jointablesmodels\\testcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9488DB54-0289-495E-AD7C-0EFDF54F0ADA}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.domain\\models\\jointablesmodels\\testgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9488DB54-0289-495E-AD7C-0EFDF54F0ADA}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|solutionrelative:testingplatform.domain\\models\\jointablesmodels\\testgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9488DB54-0289-495E-AD7C-0EFDF54F0ADA}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.domain\\models\\jointablesmodels\\testdirection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9488DB54-0289-495E-AD7C-0EFDF54F0ADA}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|solutionrelative:testingplatform.domain\\models\\jointablesmodels\\testdirection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9488DB54-0289-495E-AD7C-0EFDF54F0ADA}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.domain\\models\\jointablesmodels\\testcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9488DB54-0289-495E-AD7C-0EFDF54F0ADA}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|solutionrelative:testingplatform.domain\\models\\jointablesmodels\\testcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9488DB54-0289-495E-AD7C-0EFDF54F0ADA}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.domain\\models\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9488DB54-0289-495E-AD7C-0EFDF54F0ADA}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|solutionrelative:testingplatform.domain\\models\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9488DB54-0289-495E-AD7C-0EFDF54F0ADA}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.domain\\models\\enums\\testtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9488DB54-0289-495E-AD7C-0EFDF54F0ADA}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|solutionrelative:testingplatform.domain\\models\\enums\\testtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9488DB54-0289-495E-AD7C-0EFDF54F0ADA}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|c:\\users\\artem\\desktop\\programming\\git\\portfolio\\course-2\\practices\\testingplatform\\testingplatform.domain\\models\\enums\\answertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9488DB54-0289-495E-AD7C-0EFDF54F0ADA}|TestingPlatform.Domain\\TestingPlatform.Domain.csproj|solutionrelative:testingplatform.domain\\models\\enums\\answertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PW1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PW1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -190,307 +218,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 70,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Program.cs",
-              "RelativeDocumentMoniker": "PW1\\Program.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Program.cs",
-              "RelativeToolTip": "PW1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T14:33:33.339Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\appsettings.json",
-              "RelativeDocumentMoniker": "PW1\\appsettings.json",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\appsettings.json",
-              "RelativeToolTip": "PW1\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-02T14:33:14.981Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "PW1\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "PW1\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T14:31:56.806Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TestStudentConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Data\\Configurations\\TestStudentConfiguration.cs",
-              "RelativeDocumentMoniker": "PW1\\Data\\Configurations\\TestStudentConfiguration.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Data\\Configurations\\TestStudentConfiguration.cs",
-              "RelativeToolTip": "PW1\\Data\\Configurations\\TestStudentConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T14:24:24.841Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UserAttemptAnswerConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Data\\Configurations\\UserAttemptAnswerConfiguration.cs",
-              "RelativeDocumentMoniker": "PW1\\Data\\Configurations\\UserAttemptAnswerConfiguration.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Data\\Configurations\\UserAttemptAnswerConfiguration.cs",
-              "RelativeToolTip": "PW1\\Data\\Configurations\\UserAttemptAnswerConfiguration.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAkwB4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T14:24:42.64Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Data\\Configurations\\UserConfiguration.cs",
-              "RelativeDocumentMoniker": "PW1\\Data\\Configurations\\UserConfiguration.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Data\\Configurations\\UserConfiguration.cs",
-              "RelativeToolTip": "PW1\\Data\\Configurations\\UserConfiguration.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAACEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T14:24:34.479Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PW1",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\PW1.csproj",
-              "RelativeDocumentMoniker": "PW1\\PW1.csproj",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\PW1.csproj",
-              "RelativeToolTip": "PW1\\PW1.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-10-02T14:15:16.615Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserSelectedOptionConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Data\\Configurations\\UserSelectedOptionConfiguration.cs",
-              "RelativeDocumentMoniker": "PW1\\Data\\Configurations\\UserSelectedOptionConfiguration.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Data\\Configurations\\UserSelectedOptionConfiguration.cs",
-              "RelativeToolTip": "PW1\\Data\\Configurations\\UserSelectedOptionConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T14:24:53.811Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserTextAnswerConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Data\\Configurations\\UserTextAnswerConfiguration.cs",
-              "RelativeDocumentMoniker": "PW1\\Data\\Configurations\\UserTextAnswerConfiguration.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Data\\Configurations\\UserTextAnswerConfiguration.cs",
-              "RelativeToolTip": "PW1\\Data\\Configurations\\UserTextAnswerConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T14:25:15.736Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TestResultConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Data\\Configurations\\TestResultConfiguration.cs",
-              "RelativeDocumentMoniker": "PW1\\Data\\Configurations\\TestResultConfiguration.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Data\\Configurations\\TestResultConfiguration.cs",
-              "RelativeToolTip": "PW1\\Data\\Configurations\\TestResultConfiguration.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAswBsAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T14:24:16.164Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TestProjectConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Data\\Configurations\\TestProjectConfiguration.cs",
-              "RelativeDocumentMoniker": "PW1\\Data\\Configurations\\TestProjectConfiguration.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Data\\Configurations\\TestProjectConfiguration.cs",
-              "RelativeToolTip": "PW1\\Data\\Configurations\\TestProjectConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T14:24:08.94Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "TestGroupConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Data\\Configurations\\TestGroupConfiguration.cs",
-              "RelativeDocumentMoniker": "PW1\\Data\\Configurations\\TestGroupConfiguration.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Data\\Configurations\\TestGroupConfiguration.cs",
-              "RelativeToolTip": "PW1\\Data\\Configurations\\TestGroupConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T14:24:01.141Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "TestDirectionConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Data\\Configurations\\TestDirectionConfiguration.cs",
-              "RelativeDocumentMoniker": "PW1\\Data\\Configurations\\TestDirectionConfiguration.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Data\\Configurations\\TestDirectionConfiguration.cs",
-              "RelativeToolTip": "PW1\\Data\\Configurations\\TestDirectionConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T14:23:53.903Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "TestCourseConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Data\\Configurations\\TestCourseConfiguration.cs",
-              "RelativeDocumentMoniker": "PW1\\Data\\Configurations\\TestCourseConfiguration.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Data\\Configurations\\TestCourseConfiguration.cs",
-              "RelativeToolTip": "PW1\\Data\\Configurations\\TestCourseConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T14:23:47.79Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "TestConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Data\\Configurations\\TestConfiguration.cs",
-              "RelativeDocumentMoniker": "PW1\\Data\\Configurations\\TestConfiguration.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Data\\Configurations\\TestConfiguration.cs",
-              "RelativeToolTip": "PW1\\Data\\Configurations\\TestConfiguration.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAswDUAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T14:23:39.426Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "StudentConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Data\\Configurations\\StudentConfiguration.cs",
-              "RelativeDocumentMoniker": "PW1\\Data\\Configurations\\StudentConfiguration.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Data\\Configurations\\StudentConfiguration.cs",
-              "RelativeToolTip": "PW1\\Data\\Configurations\\StudentConfiguration.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T14:23:31.261Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "QuestionConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Data\\Configurations\\QuestionConfiguration.cs",
-              "RelativeDocumentMoniker": "PW1\\Data\\Configurations\\QuestionConfiguration.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Data\\Configurations\\QuestionConfiguration.cs",
-              "RelativeToolTip": "PW1\\Data\\Configurations\\QuestionConfiguration.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T14:23:21.946Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ProjectConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Data\\Configurations\\ProjectConfiguration.cs",
-              "RelativeDocumentMoniker": "PW1\\Data\\Configurations\\ProjectConfiguration.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Data\\Configurations\\ProjectConfiguration.cs",
-              "RelativeToolTip": "PW1\\Data\\Configurations\\ProjectConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T14:23:14.917Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "GroupConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Data\\Configurations\\GroupConfiguration.cs",
-              "RelativeDocumentMoniker": "PW1\\Data\\Configurations\\GroupConfiguration.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Data\\Configurations\\GroupConfiguration.cs",
-              "RelativeToolTip": "PW1\\Data\\Configurations\\GroupConfiguration.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBwAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T14:23:06.467Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "DirectionConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Data\\Configurations\\DirectionConfiguration.cs",
-              "RelativeDocumentMoniker": "PW1\\Data\\Configurations\\DirectionConfiguration.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Data\\Configurations\\DirectionConfiguration.cs",
-              "RelativeToolTip": "PW1\\Data\\Configurations\\DirectionConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T14:22:59.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "CourseConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Data\\Configurations\\CourseConfiguration.cs",
-              "RelativeDocumentMoniker": "PW1\\Data\\Configurations\\CourseConfiguration.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Data\\Configurations\\CourseConfiguration.cs",
-              "RelativeToolTip": "PW1\\Data\\Configurations\\CourseConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T14:22:46.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "AttemptConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Data\\Configurations\\AttemptConfiguration.cs",
-              "RelativeDocumentMoniker": "PW1\\Data\\Configurations\\AttemptConfiguration.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Data\\Configurations\\AttemptConfiguration.cs",
-              "RelativeToolTip": "PW1\\Data\\Configurations\\AttemptConfiguration.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBsAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T14:22:17.313Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "AnswerConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Data\\Configurations\\AnswerConfiguration.cs",
-              "RelativeDocumentMoniker": "PW1\\Data\\Configurations\\AnswerConfiguration.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Data\\Configurations\\AnswerConfiguration.cs",
-              "RelativeToolTip": "PW1\\Data\\Configurations\\AnswerConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T14:21:13.151Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -501,289 +230,633 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Project.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Models\\Project.cs",
-              "RelativeDocumentMoniker": "PW1\\Models\\Project.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Models\\Project.cs",
-              "RelativeToolTip": "PW1\\Models\\Project.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "GroupController.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.API\\Controllers\\GroupController.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.API\\Controllers\\GroupController.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.API\\Controllers\\GroupController.cs",
+              "RelativeToolTip": "TestingPlatform.API\\Controllers\\GroupController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T13:52:43.099Z",
+              "WhenOpened": "2026-10-14T15:30:06.88Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Question.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Models\\Question.cs",
-              "RelativeDocumentMoniker": "PW1\\Models\\Question.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Models\\Question.cs",
-              "RelativeToolTip": "PW1\\Models\\Question.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "IGroupRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Application\\IGroupRepository.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Application\\IGroupRepository.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Application\\IGroupRepository.cs",
+              "RelativeToolTip": "TestingPlatform.Application\\IGroupRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T13:57:04.061Z",
+              "WhenOpened": "2026-10-12T17:59:22.212Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GroupRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Infrastruct\\Repositories\\GroupRepository.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Infrastruct\\Repositories\\GroupRepository.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Infrastruct\\Repositories\\GroupRepository.cs",
+              "RelativeToolTip": "TestingPlatform.Infrastruct\\Repositories\\GroupRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T17:53:56.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.API\\appsettings.json",
+              "RelativeDocumentMoniker": "TestingPlatform.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.API\\appsettings.json",
+              "RelativeToolTip": "TestingPlatform.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-11T14:26:57.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TestingPlatform.Infrastruct.csproj",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj",
+              "RelativeDocumentMoniker": "TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj",
+              "RelativeToolTip": "TestingPlatform.Infrastruct\\TestingPlatform.Infrastruct.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-11T14:25:39.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestingPlatform.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.API\\TestingPlatform.API.csproj",
+              "RelativeDocumentMoniker": "TestingPlatform.API\\TestingPlatform.API.csproj",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.API\\TestingPlatform.API.csproj",
+              "RelativeToolTip": "TestingPlatform.API\\TestingPlatform.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-11T14:25:22.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.API\\Program.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.API\\Program.cs",
+              "RelativeToolTip": "TestingPlatform.API\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T14:20:05.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestingPlatform.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Application\\TestingPlatform.Application.csproj",
+              "RelativeDocumentMoniker": "TestingPlatform.Application\\TestingPlatform.Application.csproj",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Application\\TestingPlatform.Application.csproj*",
+              "RelativeToolTip": "TestingPlatform.Application\\TestingPlatform.Application.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-08T17:26:03.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Infrastruct\\Data\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Infrastruct\\Data\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Infrastruct\\Data\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "TestingPlatform.Infrastruct\\Data\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T18:23:06.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserAttemptAnswerConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Infrastruct\\Data\\Configurations\\UserAttemptAnswerConfiguration.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Infrastruct\\Data\\Configurations\\UserAttemptAnswerConfiguration.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Infrastruct\\Data\\Configurations\\UserAttemptAnswerConfiguration.cs",
+              "RelativeToolTip": "TestingPlatform.Infrastruct\\Data\\Configurations\\UserAttemptAnswerConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T18:22:57.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserTextAnswerConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Infrastruct\\Data\\Configurations\\UserTextAnswerConfiguration.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Infrastruct\\Data\\Configurations\\UserTextAnswerConfiguration.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Infrastruct\\Data\\Configurations\\UserTextAnswerConfiguration.cs",
+              "RelativeToolTip": "TestingPlatform.Infrastruct\\Data\\Configurations\\UserTextAnswerConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T18:05:00.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Infrastruct\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Infrastruct\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Infrastruct\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TestingPlatform.Infrastruct\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T18:03:50.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Program.cs",
+              "RelativeDocumentMoniker": "PW1\\Program.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Program.cs",
+              "RelativeToolTip": "PW1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T14:33:33.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Infrastruct\\Data\\Configurations\\StudentConfiguration.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Infrastruct\\Data\\Configurations\\StudentConfiguration.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Infrastruct\\Data\\Configurations\\StudentConfiguration.cs",
+              "RelativeToolTip": "TestingPlatform.Infrastruct\\Data\\Configurations\\StudentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T18:21:35.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserSelectedOptionConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Infrastruct\\Data\\Configurations\\UserSelectedOptionConfiguration.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Infrastruct\\Data\\Configurations\\UserSelectedOptionConfiguration.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Infrastruct\\Data\\Configurations\\UserSelectedOptionConfiguration.cs",
+              "RelativeToolTip": "TestingPlatform.Infrastruct\\Data\\Configurations\\UserSelectedOptionConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T18:23:12.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TestStudentConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Infrastruct\\Data\\Configurations\\TestStudentConfiguration.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Infrastruct\\Data\\Configurations\\TestStudentConfiguration.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Infrastruct\\Data\\Configurations\\TestStudentConfiguration.cs",
+              "RelativeToolTip": "TestingPlatform.Infrastruct\\Data\\Configurations\\TestStudentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T18:22:48.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TestResultConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Infrastruct\\Data\\Configurations\\TestResultConfiguration.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Infrastruct\\Data\\Configurations\\TestResultConfiguration.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Infrastruct\\Data\\Configurations\\TestResultConfiguration.cs",
+              "RelativeToolTip": "TestingPlatform.Infrastruct\\Data\\Configurations\\TestResultConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T18:22:40.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TestProjectConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Infrastruct\\Data\\Configurations\\TestProjectConfiguration.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Infrastruct\\Data\\Configurations\\TestProjectConfiguration.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Infrastruct\\Data\\Configurations\\TestProjectConfiguration.cs",
+              "RelativeToolTip": "TestingPlatform.Infrastruct\\Data\\Configurations\\TestProjectConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T18:22:30.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TestDirectionConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Infrastruct\\Data\\Configurations\\TestDirectionConfiguration.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Infrastruct\\Data\\Configurations\\TestDirectionConfiguration.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Infrastruct\\Data\\Configurations\\TestDirectionConfiguration.cs",
+              "RelativeToolTip": "TestingPlatform.Infrastruct\\Data\\Configurations\\TestDirectionConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T18:22:06.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TestCourseConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Infrastruct\\Data\\Configurations\\TestCourseConfiguration.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Infrastruct\\Data\\Configurations\\TestCourseConfiguration.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Infrastruct\\Data\\Configurations\\TestCourseConfiguration.cs",
+              "RelativeToolTip": "TestingPlatform.Infrastruct\\Data\\Configurations\\TestCourseConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T18:21:53.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TestConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Infrastruct\\Data\\Configurations\\TestConfiguration.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Infrastruct\\Data\\Configurations\\TestConfiguration.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Infrastruct\\Data\\Configurations\\TestConfiguration.cs",
+              "RelativeToolTip": "TestingPlatform.Infrastruct\\Data\\Configurations\\TestConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T18:21:42.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TestGroupConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Infrastruct\\Data\\Configurations\\TestGroupConfiguration.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Infrastruct\\Data\\Configurations\\TestGroupConfiguration.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Infrastruct\\Data\\Configurations\\TestGroupConfiguration.cs",
+              "RelativeToolTip": "TestingPlatform.Infrastruct\\Data\\Configurations\\TestGroupConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T18:04:54.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "QuestionConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Infrastruct\\Data\\Configurations\\QuestionConfiguration.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Infrastruct\\Data\\Configurations\\QuestionConfiguration.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Infrastruct\\Data\\Configurations\\QuestionConfiguration.cs",
+              "RelativeToolTip": "TestingPlatform.Infrastruct\\Data\\Configurations\\QuestionConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T18:21:30.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProjectConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Infrastruct\\Data\\Configurations\\ProjectConfiguration.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Infrastruct\\Data\\Configurations\\ProjectConfiguration.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Infrastruct\\Data\\Configurations\\ProjectConfiguration.cs",
+              "RelativeToolTip": "TestingPlatform.Infrastruct\\Data\\Configurations\\ProjectConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T18:21:24.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GroupConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Infrastruct\\Data\\Configurations\\GroupConfiguration.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Infrastruct\\Data\\Configurations\\GroupConfiguration.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Infrastruct\\Data\\Configurations\\GroupConfiguration.cs",
+              "RelativeToolTip": "TestingPlatform.Infrastruct\\Data\\Configurations\\GroupConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T18:21:07.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DirectionConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Infrastruct\\Data\\Configurations\\DirectionConfiguration.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Infrastruct\\Data\\Configurations\\DirectionConfiguration.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Infrastruct\\Data\\Configurations\\DirectionConfiguration.cs",
+              "RelativeToolTip": "TestingPlatform.Infrastruct\\Data\\Configurations\\DirectionConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T18:20:58.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CourseConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Infrastruct\\Data\\Configurations\\CourseConfiguration.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Infrastruct\\Data\\Configurations\\CourseConfiguration.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Infrastruct\\Data\\Configurations\\CourseConfiguration.cs",
+              "RelativeToolTip": "TestingPlatform.Infrastruct\\Data\\Configurations\\CourseConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T18:20:42.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AttemptConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Infrastruct\\Data\\Configurations\\AttemptConfiguration.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Infrastruct\\Data\\Configurations\\AttemptConfiguration.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Infrastruct\\Data\\Configurations\\AttemptConfiguration.cs",
+              "RelativeToolTip": "TestingPlatform.Infrastruct\\Data\\Configurations\\AttemptConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T18:20:39.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AnswerConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Infrastruct\\Data\\Configurations\\AnswerConfiguration.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Infrastruct\\Data\\Configurations\\AnswerConfiguration.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Infrastruct\\Data\\Configurations\\AnswerConfiguration.cs",
+              "RelativeToolTip": "TestingPlatform.Infrastruct\\Data\\Configurations\\AnswerConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T18:20:36.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Domain\\Models\\Question.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Domain\\Models\\Question.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Domain\\Models\\Question.cs",
+              "RelativeToolTip": "TestingPlatform.Domain\\Models\\Question.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T18:08:28.933Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
               "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "PW1\\Models\\Student.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Models\\Student.cs",
-              "RelativeToolTip": "PW1\\Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Domain\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Domain\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Domain\\Models\\Student.cs",
+              "RelativeToolTip": "TestingPlatform.Domain\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T13:48:57.136Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Test.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Models\\Test.cs",
-              "RelativeDocumentMoniker": "PW1\\Models\\Test.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Models\\Test.cs",
-              "RelativeToolTip": "PW1\\Models\\Test.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAA4wBsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T13:54:28.712Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "TestResult.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Models\\TestResult.cs",
-              "RelativeDocumentMoniker": "PW1\\Models\\TestResult.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Models\\TestResult.cs",
-              "RelativeToolTip": "PW1\\Models\\TestResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T14:03:07.635Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Models\\User.cs",
-              "RelativeDocumentMoniker": "PW1\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Models\\User.cs",
-              "RelativeToolTip": "PW1\\Models\\User.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA/wBUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T13:48:15.998Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "UserAttemptAnswer.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Models\\UserAttemptAnswer.cs",
-              "RelativeDocumentMoniker": "PW1\\Models\\UserAttemptAnswer.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Models\\UserAttemptAnswer.cs",
-              "RelativeToolTip": "PW1\\Models\\UserAttemptAnswer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T14:00:00.947Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "UserSelectedOption.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Models\\UserSelectedOption.cs",
-              "RelativeDocumentMoniker": "PW1\\Models\\UserSelectedOption.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Models\\UserSelectedOption.cs",
-              "RelativeToolTip": "PW1\\Models\\UserSelectedOption.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T14:01:10.752Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "UserTextAnswer.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Models\\UserTextAnswer.cs",
-              "RelativeDocumentMoniker": "PW1\\Models\\UserTextAnswer.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Models\\UserTextAnswer.cs",
-              "RelativeToolTip": "PW1\\Models\\UserTextAnswer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T14:02:51.797Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Group.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Models\\Group.cs",
-              "RelativeDocumentMoniker": "PW1\\Models\\Group.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Models\\Group.cs",
-              "RelativeToolTip": "PW1\\Models\\Group.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA1wBMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T13:50:29.026Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Direction.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Models\\Direction.cs",
-              "RelativeDocumentMoniker": "PW1\\Models\\Direction.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Models\\Direction.cs",
-              "RelativeToolTip": "PW1\\Models\\Direction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T13:54:01.372Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-07T18:08:40.518Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 34,
-              "Title": "Course.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Models\\Course.cs",
-              "RelativeDocumentMoniker": "PW1\\Models\\Course.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Models\\Course.cs",
-              "RelativeToolTip": "PW1\\Models\\Course.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Title": "TestResult.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Domain\\Models\\TestResult.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Domain\\Models\\TestResult.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Domain\\Models\\TestResult.cs",
+              "RelativeToolTip": "TestingPlatform.Domain\\Models\\TestResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T13:51:40.75Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-07T18:08:55.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Domain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Domain\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Domain\\Models\\User.cs",
+              "RelativeToolTip": "TestingPlatform.Domain\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T18:09:04.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserAttemptAnswer.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Domain\\Models\\UserAttemptAnswer.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Domain\\Models\\UserAttemptAnswer.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Domain\\Models\\UserAttemptAnswer.cs",
+              "RelativeToolTip": "TestingPlatform.Domain\\Models\\UserAttemptAnswer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T18:09:12.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserSelectedOption.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Domain\\Models\\UserSelectedOption.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Domain\\Models\\UserSelectedOption.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Domain\\Models\\UserSelectedOption.cs",
+              "RelativeToolTip": "TestingPlatform.Domain\\Models\\UserSelectedOption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T18:09:23.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserTextAnswer.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Domain\\Models\\UserTextAnswer.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Domain\\Models\\UserTextAnswer.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Domain\\Models\\UserTextAnswer.cs",
+              "RelativeToolTip": "TestingPlatform.Domain\\Models\\UserTextAnswer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T18:09:30.563Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 35,
-              "Title": "Attempt.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Models\\Attempt.cs",
-              "RelativeDocumentMoniker": "PW1\\Models\\Attempt.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Models\\Attempt.cs",
-              "RelativeToolTip": "PW1\\Models\\Attempt.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAABAAAAAAAAAA==",
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Domain\\Models\\Test.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Domain\\Models\\Test.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Domain\\Models\\Test.cs",
+              "RelativeToolTip": "TestingPlatform.Domain\\Models\\Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T13:59:21.955Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-07T18:05:30.484Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 36,
-              "Title": "Answer.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Models\\Answer.cs",
-              "RelativeDocumentMoniker": "PW1\\Models\\Answer.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Models\\Answer.cs",
-              "RelativeToolTip": "PW1\\Models\\Answer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Domain\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Domain\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Domain\\Models\\Project.cs",
+              "RelativeToolTip": "TestingPlatform.Domain\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T13:57:59.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-07T18:08:21.897Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 37,
-              "Title": "UserRole.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Models\\Enums\\UserRole.cs",
-              "RelativeDocumentMoniker": "PW1\\Models\\Enums\\UserRole.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Models\\Enums\\UserRole.cs",
-              "RelativeToolTip": "PW1\\Models\\Enums\\UserRole.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Domain\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Domain\\Models\\Group.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Domain\\Models\\Group.cs",
+              "RelativeToolTip": "TestingPlatform.Domain\\Models\\Group.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T14:14:33.035Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "AnswerType.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Models\\Enums\\AnswerType.cs",
-              "RelativeDocumentMoniker": "PW1\\Models\\Enums\\AnswerType.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Models\\Enums\\AnswerType.cs",
-              "RelativeToolTip": "PW1\\Models\\Enums\\AnswerType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T14:04:47.757Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "TestStudent.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Models\\JoinTablesModels\\TestStudent.cs",
-              "RelativeDocumentMoniker": "PW1\\Models\\JoinTablesModels\\TestStudent.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Models\\JoinTablesModels\\TestStudent.cs",
-              "RelativeToolTip": "PW1\\Models\\JoinTablesModels\\TestStudent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T14:11:52.866Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "TestProject.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Models\\JoinTablesModels\\TestProject.cs",
-              "RelativeDocumentMoniker": "PW1\\Models\\JoinTablesModels\\TestProject.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Models\\JoinTablesModels\\TestProject.cs",
-              "RelativeToolTip": "PW1\\Models\\JoinTablesModels\\TestProject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T14:12:12.134Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "TestGroup.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Models\\JoinTablesModels\\TestGroup.cs",
-              "RelativeDocumentMoniker": "PW1\\Models\\JoinTablesModels\\TestGroup.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Models\\JoinTablesModels\\TestGroup.cs",
-              "RelativeToolTip": "PW1\\Models\\JoinTablesModels\\TestGroup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T14:12:41.355Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "TestDirection.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Models\\JoinTablesModels\\TestDirection.cs",
-              "RelativeDocumentMoniker": "PW1\\Models\\JoinTablesModels\\TestDirection.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Models\\JoinTablesModels\\TestDirection.cs",
-              "RelativeToolTip": "PW1\\Models\\JoinTablesModels\\TestDirection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T14:12:59.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "TestCourse.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Models\\JoinTablesModels\\TestCourse.cs",
-              "RelativeDocumentMoniker": "PW1\\Models\\JoinTablesModels\\TestCourse.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Models\\JoinTablesModels\\TestCourse.cs",
-              "RelativeToolTip": "PW1\\Models\\JoinTablesModels\\TestCourse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T14:12:26.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-07T18:08:11.982Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 38,
-              "Title": "TestType.cs",
-              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Models\\Enums\\TestType.cs",
-              "RelativeDocumentMoniker": "PW1\\Models\\Enums\\TestType.cs",
-              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\Models\\Enums\\TestType.cs",
-              "RelativeToolTip": "PW1\\Models\\Enums\\TestType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "Direction.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Domain\\Models\\Direction.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Domain\\Models\\Direction.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Domain\\Models\\Direction.cs",
+              "RelativeToolTip": "TestingPlatform.Domain\\Models\\Direction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T14:04:54.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-07T18:07:42.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Domain\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Domain\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Domain\\Models\\Course.cs",
+              "RelativeToolTip": "TestingPlatform.Domain\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T18:06:08.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Attempt.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Domain\\Models\\Attempt.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Domain\\Models\\Attempt.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Domain\\Models\\Attempt.cs",
+              "RelativeToolTip": "TestingPlatform.Domain\\Models\\Attempt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T18:05:56.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Answer.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Domain\\Models\\Answer.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Domain\\Models\\Answer.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Domain\\Models\\Answer.cs",
+              "RelativeToolTip": "TestingPlatform.Domain\\Models\\Answer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T18:05:37.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "TestType.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Domain\\Models\\Enums\\TestType.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Domain\\Models\\Enums\\TestType.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Domain\\Models\\Enums\\TestType.cs",
+              "RelativeToolTip": "TestingPlatform.Domain\\Models\\Enums\\TestType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T18:09:54.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Domain\\Models\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Domain\\Models\\Enums\\UserRole.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Domain\\Models\\Enums\\UserRole.cs",
+              "RelativeToolTip": "TestingPlatform.Domain\\Models\\Enums\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T18:10:01.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "TestCourse.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Domain\\Models\\JoinTablesModels\\TestCourse.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Domain\\Models\\JoinTablesModels\\TestCourse.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Domain\\Models\\JoinTablesModels\\TestCourse.cs",
+              "RelativeToolTip": "TestingPlatform.Domain\\Models\\JoinTablesModels\\TestCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T18:10:12.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "TestDirection.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Domain\\Models\\JoinTablesModels\\TestDirection.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Domain\\Models\\JoinTablesModels\\TestDirection.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Domain\\Models\\JoinTablesModels\\TestDirection.cs",
+              "RelativeToolTip": "TestingPlatform.Domain\\Models\\JoinTablesModels\\TestDirection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T18:10:19.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "TestGroup.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Domain\\Models\\JoinTablesModels\\TestGroup.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Domain\\Models\\JoinTablesModels\\TestGroup.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Domain\\Models\\JoinTablesModels\\TestGroup.cs",
+              "RelativeToolTip": "TestingPlatform.Domain\\Models\\JoinTablesModels\\TestGroup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T18:10:26.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "TestProject.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Domain\\Models\\JoinTablesModels\\TestProject.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Domain\\Models\\JoinTablesModels\\TestProject.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Domain\\Models\\JoinTablesModels\\TestProject.cs",
+              "RelativeToolTip": "TestingPlatform.Domain\\Models\\JoinTablesModels\\TestProject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T18:11:08.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "TestStudent.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Domain\\Models\\JoinTablesModels\\TestStudent.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Domain\\Models\\JoinTablesModels\\TestStudent.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Domain\\Models\\JoinTablesModels\\TestStudent.cs",
+              "RelativeToolTip": "TestingPlatform.Domain\\Models\\JoinTablesModels\\TestStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T18:11:22.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AnswerType.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Domain\\Models\\Enums\\AnswerType.cs",
+              "RelativeDocumentMoniker": "TestingPlatform.Domain\\Models\\Enums\\AnswerType.cs",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\TestingPlatform.Domain\\Models\\Enums\\AnswerType.cs",
+              "RelativeToolTip": "TestingPlatform.Domain\\Models\\Enums\\AnswerType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T18:09:40.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\appsettings.json",
+              "RelativeDocumentMoniker": "PW1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Artem\\Desktop\\Programming\\git\\portfolio\\course-2\\practices\\TestingPlatform\\PW1\\appsettings.json",
+              "RelativeToolTip": "PW1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-02T14:33:14.981Z"
             }
           ]
         }
