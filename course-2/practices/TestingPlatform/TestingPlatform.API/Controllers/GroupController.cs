@@ -1,58 +1,53 @@
 using Microsoft.AspNetCore.Mvc;
+using TestingPlatform.Application.DTOs;
+using TestingPlatform.Application.Interfaces;
 using TestingPlatform.Domain.Models;
 using TestingPlatform.Infrastruct.Data;
 using TestingPlatform.Infrastruct.Repositories;
-using TestingPlatform.Infrastruct;
-using TestingPlatform.Infrastruct.Repositories;
 
-namespace practice.Controllers;
-
-[ApiController]
-[Route("api/[controller]")]
-public class GroupsController : ControllerBase
+namespace TestingPlatform.API.Controllers
 {
-    private readonly GroupRepository _repository;
-
-    public GroupsController(AppDbContext appDbContext)
+    [ApiController]
+    [Route("api/[controller]")]
+    public class GroupsController(IGroupRepository groupRepository) : ControllerBase
     {
-        _repository = new GroupRepository(appDbContext);
-    }
+        [HttpGet]
+        public IActionResult GetAllGroups()
+        {
+            var groups = groupRepository.GetAll();
 
-    [HttpGet]
-    public IActionResult GetAllGroups()
-    {
-        var groups = _repository.GetAll();
-        return Ok(groups);
-    }
+            return Ok(groups);
+        }
 
-    [HttpGet("{id:int}")]
-    public IActionResult GetGroupById(int id)
-    {
-        var group = _repository.GetById(id);
+        [HttpGet("{id:int}")]
+        public IActionResult GetGroupById(int id)
+        {
+            var group = groupRepository.GetById(id);
 
-        return Ok(group);
-    }
+            return Ok(group);
+        }
 
-    [HttpPost]
-    public IActionResult CreateGroup([FromBody] Group group)
-    {
-        var id = _repository.Create(group);
+        [HttpPost]
+        public IActionResult CreateGroup([FromBody] GroupDTO group)
+        {
+            var id = groupRepository.Create(group);
 
-        return StatusCode(StatusCodes.Status201Created, new { Id = id });
-    }
+            return StatusCode(StatusCodes.Status201Created, new { Id = id });
+        }
 
-    [HttpPut("{id:int}")]
-    public IActionResult UpdateGroup([FromBody] Group group)
-    {
-        _repository.Update(group);
-        return NoContent();
-    }
+        [HttpPut("{id:int}")]
+        public IActionResult UpdateGroup([FromBody] GroupDTO group)
+        {
+            groupRepository.Update(group);
+            return NoContent();
+        }
 
-    [HttpDelete("{id:int}")]
-    public IActionResult DeleteGroup(int id)
-    {
-        _repository.Delete(id);
+        [HttpDelete("{id:int}")]
+        public IActionResult DeleteGroup(int id)
+        {
+            groupRepository.Delete(id);
 
-        return NoContent();
+            return NoContent();
+        }
     }
 }
