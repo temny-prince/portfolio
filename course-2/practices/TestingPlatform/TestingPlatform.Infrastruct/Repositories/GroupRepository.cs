@@ -9,7 +9,7 @@ namespace TestingPlatform.Infrastruct.Repositories
 {
     public class GroupRepository(AppDbContext appDbContext, IMapper mapper) : IGroupRepository
     {
-        public List<GroupDto> GetAll()
+        public List<GroupDTO> GetAll()
         {
             var groups = appDbContext.Groups
                 .Include(g => g.Project)
@@ -19,10 +19,10 @@ namespace TestingPlatform.Infrastruct.Repositories
                 .AsNoTracking()
                 .ToList();
 
-            return mapper.Map<List<GroupDto>>(groups);
+            return mapper.Map<List<GroupDTO>>(groups);
         }
 
-        public GroupDto GetById(int id)
+        public GroupDTO GetById(int id)
         {
             var group = appDbContext.Groups
                 .Include(g => g.Project)
@@ -36,10 +36,10 @@ namespace TestingPlatform.Infrastruct.Repositories
                 throw new Exception("Группа не найдена.");
             }
 
-            return mapper.Map<GroupDto>(group);
+            return mapper.Map<GroupDTO>(group);
         }
 
-        public int Create(GroupDto groupDto)
+        public int Create(GroupDTO groupDto)
         {
             var group = mapper.Map<Group>(groupDto);
 
@@ -70,7 +70,7 @@ namespace TestingPlatform.Infrastruct.Repositories
             return groupId.Entity.Id;
         }
 
-        public void Update(GroupDto groupDto)
+        public void Update(GroupDTO groupDto)
         {
             var group = appDbContext.Groups.FirstOrDefault(group => group.Id == groupDto.Id);
 

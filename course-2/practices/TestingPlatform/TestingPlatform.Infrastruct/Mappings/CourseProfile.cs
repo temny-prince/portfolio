@@ -1,5 +1,4 @@
 ﻿using AutoMapper;
-using TestingPlatform.Application.Dtos;
 using TestingPlatform.Application.DTOs;
 using TestingPlatform.Domain.Models;
 
@@ -9,6 +8,6 @@ public class CourseProfile : Profile
 {
     public CourseProfile()
     {
-        CreateMap<Course, CourseDto>().ReverseMap();
+        CreateMap<Course, CourseDTO>().ReverseMap();
     }
 }

@@ -1,6 +1,5 @@
 ﻿using TestingPlatform.Application.DTOs;
 using TestingPlatform.Domain.Models;
-using TestingPlatform.Application.DTOs;
 
 namespace TestingPlatform.Application.Interfaces
 {
@@ -8,7 +7,7 @@ namespace TestingPlatform.Application.Interfaces
     {
         List<GroupDTO> GetAll();
 
-        Group GetById(int id);
+        GroupDTO GetById(int id);
 
         int Create(GroupDTO group);
         
