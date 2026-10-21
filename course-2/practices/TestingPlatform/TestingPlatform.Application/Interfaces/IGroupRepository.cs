@@ -5,14 +5,36 @@ namespace TestingPlatform.Application.Interfaces
 {
     public interface IGroupRepository
     {
-        List<GroupDTO> GetAll();
+        /// <summary>
+        /// Получить все группы.
+        /// </summary>
+        /// <returns>Массив групп.</returns>
+        Task<List<GroupDTO>> GetAllAsync();
 
-        GroupDTO GetById(int id);
+        /// <summary>
+        /// Получить группу по id.
+        /// </summary>
+        /// <param name="id">Идентификатор группы</param>
+        /// <returns></returns>
+        Task<GroupDTO> GetByIdAsync(int id);
 
-        int Create(GroupDTO group);
-        
-        void Update(GroupDTO group);
+        /// <summary>
+        /// Создать новую группу.
+        /// </summary>
+        /// <param name="groupDto">Модель создания новой группы.</param>
+        /// <returns>Идентификатор новой группы .</returns>
+        Task<int> CreateAsync(GroupDTO groupDto);
 
-        void Delete(int id);
+        /// <summary>
+        /// Обновить информацию о группе.
+        /// </summary>
+        /// <param name="groupDto">Модель обновления группы.</param>
+        Task UpdateAsync(GroupDTO groupDto);
+
+        /// <summary>
+        /// Удалить группу.
+        /// </summary>
+        /// <param name="id">Идентификатор группы.</param>
+        Task DeleteAsync(int id);
     }
 }
