@@ -1,0 +1,12 @@
+﻿using TestingPlatform.Application.DTOs;
+
+namespace TestingPlatform.Application.Interfaces;
+
+public interface IUserRepository
+{
+    Task<IEnumerable<UserDTO>> GetAllAsync();
+    Task<UserDTO> GetByIdAsync(int id);
+    Task<int> CreateAsync(UserDTO userDto);
+    Task UpdateAsync(UserDTO userDto);
+    Task DeleteAsync(int id);
+}

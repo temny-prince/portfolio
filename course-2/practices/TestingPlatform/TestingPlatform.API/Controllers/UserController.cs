@@ -1,57 +1,77 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using TestingPlatform.Domain.Models;
-using TestingPlatform.Infrastruct.Data;
-using TestingPlatform.Infrastruct.Repositories;
+﻿using AutoMapper;
+using Microsoft.AspNetCore.Mvc;
+using TestingPlatform.API.Requests.User;
+using TestingPlatform.API.Responses;
+using TestingPlatform.Application.DTOs;
+using TestingPlatform.Application.Interfaces;
 
-namespace TestingPlatform.API.Controllers
+namespace TestingPlatform.API.Controllers;
+
+[ApiController]
+[Route("api/[controller]")]
+public class UsersController(IUserRepository userRepository, IMapper mapper) : ControllerBase
 {
-    [ApiController]
-    [Route("api/[controller]")]
-    public class UserController : ControllerBase
+    [HttpGet]
+    public async Task<IActionResult> GetUsers()
     {
-        private readonly UserRepository _repository;
+        var users = await userRepository.GetAllAsync();
+        return Ok(mapper.Map<IEnumerable<UserResponse>>(users));
+    }
 
-        public UserController(AppDbContext appDbContext)
+    [HttpGet("{id:int}")]
+    public async Task<IActionResult> GetUserById(int id)
+    {
+        var user = await userRepository.GetByIdAsync(id);
+        return Ok(mapper.Map<UserResponse>(user));
+    }
+
+    [HttpPost]
+    public async Task<IActionResult> CreateUser([FromBody] CreateUserRequest request)
+    {
+        var dto = new UserDTO
         {
-            _repository = new UserRepository(appDbContext);
+            Login = request.Login,
+            Email = request.Email,
+            FirstName = request.FirstName,
+            MiddleName = request.MiddleName,
+            LastName = request.LastName,
+            Role = request.Role
+        };
+
+        var userId = await userRepository.CreateAsync(dto, request.Password);
+        return StatusCode(StatusCodes.Status201Created, new { Id = userId });
+    }
+
+    [HttpPut]
+    public async Task<IActionResult> UpdateUser([FromBody] UpdateUserRequest request)
+    {
+        var dto = new UserDTO
+        {
+            Id = request.Id,
+            Login = request.Login,
+            Email = request.Email,
+            FirstName = request.FirstName,
+            MiddleName = request.MiddleName,
+            LastName = request.LastName,
+            Role = request.Role
+        };
+
+        if (!string.IsNullOrWhiteSpace(request.Password))
+        {
+            await userRepository.UpdateAsync(dto, request.Password);
+        }
+        else
+        {
+            await userRepository.UpdateAsync(dto);
         }
 
-        [HttpGet]
-        public IActionResult GetAllGroups()
-        {
-            var groups = _repository.GetAllAsync();
-            return Ok(groups);
-        }
+        return NoContent();
+    }
 
-        [HttpGet("{id:int}")]
-        public IActionResult GetGroupById(int id)
-        {
-            var group = _repository.GetByIdAsync(id);
-
-            return Ok(group);
-        }
-
-        [HttpPost]
-        public IActionResult CreateGroup([FromBody] User user)
-        {
-            var id = _repository.CreateAsync(user);
-
-            return StatusCode(StatusCodes.Status201Created, new { Id = id });
-        }
-
-        [HttpPut("{id:int}")]
-        public IActionResult UpdateGroup([FromBody] User user)
-        {
-            _repository.UpdateAsync(user);
-            return NoContent();
-        }
-
-        [HttpDelete("{id:int}")]
-        public IActionResult DeleteGroup(int id)
-        {
-            _repository.DeleteAsync(id);
-
-            return NoContent();
-        }
+    [HttpDelete("{id:int}")]
+    public async Task<IActionResult> DeleteUser(int id)
+    {
+        await userRepository.DeleteAsync(id);
+        return NoContent();
     }
 }

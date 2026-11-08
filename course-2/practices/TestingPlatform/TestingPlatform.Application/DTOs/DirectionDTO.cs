@@ -1,8 +1,7 @@
-﻿namespace TestingPlatform.Application.DTOs
+﻿namespace TestingPlatform.Application.DTOs;
+
+public class DirectionDTO
 {
-    public class DirectionDTO
-    {
-        public int Id { get; set; }
-        public string Name { get; set; }
-    }
+    public int Id { get; set; }
+    public string Name { get; set; } = string.Empty;
 }

@@ -1,14 +1,13 @@
 ﻿using AutoMapper;
 using TestingPlatform.Application.DTOs;
-using TestingPlatform.Application.Responces;
 using TestingPlatform.Domain.Models;
 
-namespace TestingPlatform.Infrastructure.Mappings;
+namespace TestingPlatform.Infrastruct.Mappings;
 
 public class CourseProfile : Profile
 {
     public CourseProfile()
     {
-        CreateMap<CourseDTO, CourseResponse>();
+        CreateMap<Course, CourseDTO>().ReverseMap();
     }
 }

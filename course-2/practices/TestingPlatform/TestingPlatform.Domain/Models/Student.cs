@@ -15,5 +15,7 @@ namespace TestingPlatform.Domain.Models
         public List<TestStudent> TestStudents { get; set; } = new();
         public List<Attempt> Attempts { get; set; } = new();
         public List<TestResult> TestResults { get; set; } = new();
+
+        
     }
 }
